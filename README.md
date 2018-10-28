@@ -1,6 +1,6 @@
-#Memory Game
+# Memory Game
 
-###Instructions
+### Instructions
 
 To Play: Simply click each "?" box to reveal the tile.
 
