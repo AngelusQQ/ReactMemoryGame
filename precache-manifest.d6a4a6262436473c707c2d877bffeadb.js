@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/winner.1707da29.mp3"
   },
   {
-    "revision": "f3d0b1f1efa9bb7ea09d25ef60145014",
+    "revision": "51778dbc8ea6fb2fe86d2c75a04ac81a",
     "url": "/index.html"
   }
 ];
